@@ -36,7 +36,6 @@
 - ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 - ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 - ![Rasa](https://img.shields.io/badge/Rasa-5C2D91?style=flat&logo=rasa&logoColor=white)
-- 🟣 NLP Enthusiast
 
 ---
 
