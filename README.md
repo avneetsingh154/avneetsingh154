@@ -73,13 +73,6 @@
 
 ---
 
-## 📫 Let's Connect
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](official.singh154@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/avneet-singh-202069287/))
-
----
-
 ## ✨ Motto
 
 > **“Code hard, sleep less, sip more coffee ☕”**  
